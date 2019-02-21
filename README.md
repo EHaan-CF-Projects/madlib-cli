@@ -7,7 +7,7 @@
 A game of MadLibs that is played in the command line interface. Players are prompted to supply a series of words. When complete, their completed MadLib will be returned to them and hilarity may ensue.
 
 ## Getting Started
-Create a virtual environment that includes Pytest
+Create a virtual environment that includes pep8 Linter and Pytest
 
 ## Architecture
 Python 3.6.7
